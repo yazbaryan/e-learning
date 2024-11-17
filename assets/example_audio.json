@@ -1,0 +1,87 @@
+{
+    "pause": 250,
+    "speakers": [
+        {
+            "name": "John",
+            "phrases": [
+                {
+                    "words": "this is one phrase.",
+                    "time": 147
+                },
+                {
+                    "words": "now the second phrase.",
+                    "time": 166
+                },
+                {
+                    "words": "end with last phrase.",
+                    "time": 121
+                },
+                {
+                    "words": "this is one phrase.",
+                    "time": 147
+                },
+                {
+                    "words": "now the second phrase.",
+                    "time": 166
+                },
+                {
+                    "words": "end with last phrase.",
+                    "time": 121
+                },
+                {
+                    "words": "this is one phrase.",
+                    "time": 147
+                },
+                {
+                    "words": "now the second phrase.",
+                    "time": 166
+                },
+                {
+                    "words": "end with last phrase.",
+                    "time": 121
+                }
+            ]
+        },
+        {
+            "name": "Jack",
+            "phrases": [
+                {
+                    "words": "another speaker here.",
+                    "time": 157
+                },
+                {
+                    "words": "saying her second phrase.",
+                    "time": 198
+                },
+                {
+                    "words": "and eventually finishing up.",
+                    "time": 148
+                },
+                {
+                    "words": "another speaker here.",
+                    "time": 157
+                },
+                {
+                    "words": "saying her second phrase.",
+                    "time": 198
+                },
+                {
+                    "words": "and eventually finishing up.",
+                    "time": 148
+                },
+                {
+                    "words": "another speaker here.",
+                    "time": 157
+                },
+                {
+                    "words": "saying her second phrase.",
+                    "time": 198
+                },
+                {
+                    "words": "and eventually finishing up.",
+                    "time": 148
+                }
+            ]
+        }
+    ]
+}
